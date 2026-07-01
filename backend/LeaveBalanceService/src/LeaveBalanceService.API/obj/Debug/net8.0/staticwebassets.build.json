@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OM/IJiIbmM+7AB1DJcnTp0aLodxadJ8wHB54zxPT+08=",
+  "Source": "LeaveBalanceService.API",
+  "BasePath": "_content/LeaveBalanceService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
