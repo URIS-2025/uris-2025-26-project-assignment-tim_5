@@ -1,0 +1,6 @@
+{
+  "LeaveBalanceService.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Administrator\\Documents\\faksoni\\URIS\\backend\\src\\LeaveBalanceService.API",
+  "LeaveBalanceService.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Administrator\\Documents\\faksoni\\URIS\\backend\\src\\LeaveBalanceService.Application",
+  "LeaveBalanceService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Administrator\\Documents\\faksoni\\URIS\\backend\\src\\LeaveBalanceService.Domain",
+  "LeaveBalanceService.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Administrator\\Documents\\faksoni\\URIS\\backend\\src\\LeaveBalanceService.Infrastructure"
+}

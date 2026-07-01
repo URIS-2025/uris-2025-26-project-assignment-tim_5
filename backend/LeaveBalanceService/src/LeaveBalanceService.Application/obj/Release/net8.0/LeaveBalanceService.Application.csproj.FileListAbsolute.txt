@@ -1,0 +1,16 @@
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\bin\Release\net8.0\LeaveBalanceService.Application.deps.json
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\bin\Release\net8.0\LeaveBalanceService.Application.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\bin\Release\net8.0\LeaveBalanceService.Application.pdb
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\bin\Release\net8.0\LeaveBalanceService.Domain.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\bin\Release\net8.0\LeaveBalanceService.Domain.pdb
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.csproj.AssemblyReference.cache
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.AssemblyInfoInputs.cache
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.AssemblyInfo.cs
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.sourcelink.json
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBal.0058FF7C.Up2Date
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\refint\LeaveBalanceService.Application.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\LeaveBalanceService.Application.pdb
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Application\obj\Release\net8.0\ref\LeaveBalanceService.Application.dll
