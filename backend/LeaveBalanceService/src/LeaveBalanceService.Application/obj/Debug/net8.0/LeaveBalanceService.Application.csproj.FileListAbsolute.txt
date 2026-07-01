@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\bin\Debug\net8.0\LeaveBalanceService.Application.deps.json
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\bin\Debug\net8.0\LeaveBalanceService.Application.dll
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\bin\Debug\net8.0\LeaveBalanceService.Application.pdb
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\bin\Debug\net8.0\LeaveBalanceService.Domain.dll
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\bin\Debug\net8.0\LeaveBalanceService.Domain.pdb
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.AssemblyInfo.cs
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.csproj.CopyComplete
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.dll
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\refint\LeaveBalanceService.Application.dll
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.pdb
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\ref\LeaveBalanceService.Application.dll
+C:\Users\Administrator\Documents\faksoni\URIS\backend\src\LeaveBalanceService.Application\obj\Debug\net8.0\LeaveBalanceService.Application.sourcelink.json

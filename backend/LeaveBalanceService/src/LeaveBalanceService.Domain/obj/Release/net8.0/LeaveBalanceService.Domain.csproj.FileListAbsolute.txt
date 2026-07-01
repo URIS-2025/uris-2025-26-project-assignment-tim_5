@@ -1,0 +1,12 @@
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\bin\Release\net8.0\LeaveBalanceService.Domain.deps.json
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\bin\Release\net8.0\LeaveBalanceService.Domain.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\bin\Release\net8.0\LeaveBalanceService.Domain.pdb
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.AssemblyInfoInputs.cache
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.AssemblyInfo.cs
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.sourcelink.json
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\refint\LeaveBalanceService.Domain.dll
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\LeaveBalanceService.Domain.pdb
+C:\Users\Jovana\Desktop\URIS\backend\LeaveBalanceService\src\LeaveBalanceService.Domain\obj\Release\net8.0\ref\LeaveBalanceService.Domain.dll
